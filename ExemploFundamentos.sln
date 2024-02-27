@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROJETOS", "PROJETOS.csproj", "{52A371F4-8BAF-4AF7-A344-8249065CCDFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROJETOS", "ExemploFundamentos\PROJETOS.csproj", "{52A371F4-8BAF-4AF7-A344-8249065CCDFF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploFundamentos.Common", "ExemploFundamentos.Common\ExemploFundamentos.Common.csproj", "{D63B24E3-032F-4139-97D9-41F25384EB34}"
 EndProject

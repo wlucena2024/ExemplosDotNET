@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS\\PROJETOS.csproj",
+      "projectUniqueName": "C:\\PROJETOS\\ExemploFundamentos\\PROJETOS.csproj",
       "projectName": "PROJETOS",
-      "projectPath": "C:\\PROJETOS\\PROJETOS.csproj",
+      "projectPath": "C:\\PROJETOS\\ExemploFundamentos\\PROJETOS.csproj",
       "packagesPath": "C:\\Users\\wellington.lucena\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS\\obj\\",
+      "outputPath": "C:\\PROJETOS\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wellington.lucena\\AppData\\Roaming\\NuGet\\NuGet.Config"

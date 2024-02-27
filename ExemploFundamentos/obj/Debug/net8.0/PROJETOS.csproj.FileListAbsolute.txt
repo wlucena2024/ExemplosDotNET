@@ -1,0 +1,5 @@
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.AssemblyInfoInputs.cache
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.AssemblyInfo.cs
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.csproj.CoreCompileInputs.cache
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.sourcelink.json
