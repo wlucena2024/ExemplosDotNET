@@ -3,3 +3,13 @@ C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.AssemblyInfoInputs.cach
 C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.AssemblyInfo.cs
 C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.csproj.CoreCompileInputs.cache
 C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.sourcelink.json
+C:\PROJETOS\ExemploFundamentos\bin\Debug\net8.0\PROJETOS.exe
+C:\PROJETOS\ExemploFundamentos\bin\Debug\net8.0\PROJETOS.deps.json
+C:\PROJETOS\ExemploFundamentos\bin\Debug\net8.0\PROJETOS.runtimeconfig.json
+C:\PROJETOS\ExemploFundamentos\bin\Debug\net8.0\PROJETOS.dll
+C:\PROJETOS\ExemploFundamentos\bin\Debug\net8.0\PROJETOS.pdb
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.dll
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\refint\PROJETOS.dll
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.pdb
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\PROJETOS.genruntimeconfig.cache
+C:\PROJETOS\ExemploFundamentos\obj\Debug\net8.0\ref\PROJETOS.dll
